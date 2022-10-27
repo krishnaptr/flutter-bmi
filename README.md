@@ -1,6 +1,4 @@
-# body_mass_index
-
-A new Flutter project.
+# Body Mass Index (BMI) with provider state management - Flutter.
 
 ## Description
 
